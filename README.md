@@ -1,2 +1,2 @@
 # maximl
-Simple static Weather App Using Angular7
+Simple static Weather App Using Angular6
