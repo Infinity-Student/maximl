@@ -1,2 +1,2 @@
-#maximl
+#Maximl
 Simple Weather App
